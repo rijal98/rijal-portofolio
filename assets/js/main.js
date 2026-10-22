@@ -344,12 +344,12 @@ experience: [
   },
   {
     logo: "img:pelindo.webp",
-    role: "Web Developer Intern — IT Bureau",
+    role: "Web Developer Intern — BIRO IT",
     org: "PT Pelindo IV (Persero)",
     date: "Oct – Dec 2020",
     place: "Makassar, South Sulawesi, Indonesia",
     points: [
-      "Completed a three-month internship in the IT Bureau, focusing on web development.",
+      "Completed a three-month internship in the BIRO IT, focusing on web development.",
       "Gained practical experience in website development, application maintenance, and information technology operations.",
       "Applied programming skills to support web development activities in a professional environment.",
     ],
