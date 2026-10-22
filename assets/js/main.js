@@ -357,20 +357,136 @@ experience: [
 ],
 
 
-  research: [
-    {
-      kind: "Applied Research 2026",
-      title: "Crew Inactivity Detection System for the Engine Control Room of a Training Vessel",
-      desc: "YOLO11s on a Raspberry Pi 5 + Hailo recognizes normal, playing, and sleeping crew, with a dashboard and Telegram alerts. Progress report and results seminar manuscript completed.",
-      tags: ["YOLO11s", "Edge AI", "Maritime"],
-    },
-    {
-      kind: "Journal Manuscript",
-      title: "Real-time Detection of PPE Usage (Helmets & Vests) with YOLOv8",
-      desc: "Submitted to JEENI (Journal of Electrical Engineering and Informatics) with Muh. Erdin and Harun Musa; currently under revision.",
-      tags: ["YOLOv8", "Occupational Safety", "JEENI"],
-    },
-  ],
+
+research: [
+  {
+    kind: "Applied Research",
+    year: 2026,
+    title:
+      "Crew Inactivity Detection System for the Engine Control Room of a Training Vessel",
+    desc:
+      "YOLO11s on a Raspberry Pi 5 with Hailo accelerator detects normal, playing, and sleeping crew activities, integrated with a web dashboard and Telegram alerts. Progress report and results seminar manuscript completed.",
+    tags: ["YOLO11s", "Edge AI", "Computer Vision"],
+  },
+  {
+    kind: "Journal Article",
+    year: 2026,
+    title:
+      "Real-Time Safety Helmet and Vest Compliance Detection Using YOLOv8 with Web-Based Monitoring and Telegram Alerts",
+    desc:
+      "A real-time PPE compliance detection system using YOLOv8, web-based monitoring, and Telegram notifications. Published in the Journal of Electrical Engineering and Informatics, 4(1), 58–67.",
+    tags: ["YOLOv8", "Computer Vision", "Occupational Safety"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:WF5omc3nYNoC",
+  },
+  {
+    kind: "Journal Article",
+    year: 2024,
+    title:
+      "Deteksi Citra Daun untuk Klasifikasi Penyakit Padi menggunakan Pendekatan Deep Learning dengan Model CNN",
+    desc:
+      "Research on rice leaf image analysis and disease classification using a Convolutional Neural Network (CNN). Published in Jurnal Teknologi Terpadu, 10(1), 56–62.",
+    tags: ["Deep Learning", "CNN", "Image Classification"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:u5HHmVD_uO8C",
+  },
+  {
+    kind: "Conference Paper",
+    year: 2025,
+    title:
+      "Fake News Detection in Indonesian Language Using a Deep Learning Approach with Indo-BERT",
+    desc:
+      "Investigates the use of IndoBERT and deep learning for detecting fake news in Indonesian-language text. Published in the Proceedings of the International Conference on Social Sciences and Education, pages 106–113.",
+    tags: ["NLP", "IndoBERT", "Deep Learning"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:UeHWp8X0CEIC",
+  },
+  {
+    kind: "Community Service",
+    year: 2025,
+    title:
+      "Sosialisasi Teknologi Artificial Intelligence untuk Mendukung Proses Pembelajaran di Madrasah Madani Alauddin",
+    desc:
+      "A community engagement initiative introducing Artificial Intelligence technologies to support teaching and learning activities. Published in JBIMA: Jurnal Pengabdian kepada Masyarakat, 2(3), 87–93.",
+    tags: ["Artificial Intelligence", "Education", "Community Service"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:IjCSPb-OGe4C",
+  },
+  {
+    kind: "Conference Paper",
+    year: 2024,
+    title:
+      "The Effectiveness of MARPOL Annex V Implementation on Ferry Ships in Parepare Harbor",
+    desc:
+      "Examines the effectiveness of MARPOL Annex V implementation on ferry vessels operating at Parepare Harbor. Published in the 3rd International Conference and Maritime Development (ICMaD 2024), pages 51–60.",
+    tags: ["Environmental Research", "Regulatory Compliance", "Conference"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:d1gkVwhDpl0C",
+  },
+  {
+    kind: "Conference Paper",
+    year: 2026,
+    title:
+      "The Construction of Digital Citizenship Meaning among Informatics Students as Aspiring Technology Professionals",
+    desc:
+      "Explores how informatics students construct the meaning of digital citizenship as future technology professionals. Listed in the Proceedings of the International Conference on Social Sciences and Education.",
+    tags: ["Digital Citizenship", "Informatics Education", "Social Sciences"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:_FxGoFyzp5QC",
+  },
+  {
+    kind: "Journal Article",
+    year: 2026,
+    title:
+      "Analisis Pengaruh Variasi ISO dan Waktu Pemotretan terhadap Kualitas Citra Kamera DSLR pada Kondisi Cahaya Alami Tropis",
+    desc:
+      "Analyzes the effects of ISO variation and exposure timing on DSLR image quality under tropical natural-light conditions. Published in Jurnal Vokasi Sains dan Teknologi, 5(2), 200–209.",
+    tags: ["Image Processing", "Digital Photography", "Image Quality"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:YsMSGLbcyi4C",
+  },
+  {
+    kind: "Journal Article",
+    year: 2026,
+    title:
+      "Application of Automatic Detection of Personal Protective Equipment (PPE) for Loading and Unloading Workers at PT. Pelindo TPK Makassar",
+    desc:
+      "Presents the application of automated PPE detection to support occupational safety monitoring for loading and unloading workers. Published in Maritime Park: Journal of Maritime Technology and Society, pages 8–18.",
+    tags: ["Computer Vision", "PPE Detection", "YOLO"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:Y0pCki6q_DkC",
+  },
+  {
+    kind: "Book",
+    year: 2025,
+    title: "Pengantar Teknologi Informasi",
+    desc:
+      "A collaborative book covering foundational concepts and applications of information technology. Published by PT. Sonpedia Publishing Indonesia.",
+    tags: ["Information Technology", "Book", "Education"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:2osOgNQ5qMEC",
+  },
+  {
+    kind: "Patent",
+    year: 2025,
+    title:
+      "APPEDetect-TPK: Automatic Personal Protective Equipment Detection - Terminal Peti Kemas",
+    desc:
+      "An intellectual property registration related to an automatic personal protective equipment detection system for container terminal operations. Listed as Indonesian patent record EC002,025,092,028.",
+    tags: ["Patent", "Artificial Intelligence", "PPE Detection"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:9yKSN-GCB0IC",
+  },
+  {
+    kind: "Book",
+    year: 2025,
+    title: "Pengantar Machine Learning",
+    desc:
+      "A collaborative book introducing fundamental concepts and methods in machine learning. Published by CV Sakura Digital Nusantara.",
+    tags: ["Machine Learning", "Artificial Intelligence", "Book"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:Tyk-4Ss8FVUC",
+  },
+  {
+    kind: "Patent",
+    year: 2024,
+    title: "ARLThal: Arabic-Latin Transliteration Tool",
+    desc:
+      "An intellectual property registration for a tool that supports transliteration between Arabic and Latin scripts. Listed as Indonesian patent record EC00,202,407,991.",
+    tags: ["Patent", "Natural Language Processing", "Transliteration"],
+    url: "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=zkvs4tUAAAAJ&citation_for_view=zkvs4tUAAAAJ:u-x6o8ySG0sC",
+  },
+],
+
 
   certs: [
     { logo: "dicoding.webp", title: "Memulai Pemrograman dengan Python", issuer: "Dicoding", date: "September 2021", id: "1OP8LJ15VZQK", url: "https://www.dicoding.com/certificates/1OP8LJ15VZQK" },
