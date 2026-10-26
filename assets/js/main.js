@@ -11,7 +11,7 @@ const DATA = {
   roles: [
     "Lecturer · Politeknik Negeri Ujung Pandang",
     "Machine Learning · Deep Learning Dev",
-    "Web Development — Flask · Laravel | PHP · JavaScript",
+    "Full Stack Developer — Python - Flask · Laravel | PHP · JavaScript",
     "Researcher",
   ],
 
@@ -349,7 +349,7 @@ experience: [
     date: "Oct – Dec 2020",
     place: "Makassar, South Sulawesi, Indonesia",
     points: [
-      "Completed a three-month internship in the BIRO IT, focusing on web development.",
+      "Completed a three-month internship in the IT Bureau, focusing on web development.",
       "Gained practical experience in website development, application maintenance, and information technology operations.",
       "Applied programming skills to support web development activities in a professional environment.",
     ],
@@ -502,8 +502,8 @@ research: [
   ],
 
   skills: [
-    { group: "AI & Data", items: ["Python", "YOLOv8 / YOLO11", "Computer Vision", "Roboflow", "Ultralytics", "NLP · TF-IDF", "Edge AI · Hailo"] },
-    { group: "Web & Backend", items: ["Laravel", "PHP", "Flask", "JavaScript", "HTML5", "CSS", "SQLAlchemy", "Google Apps Script"] },
+    { group: "AI & Data", items: ["Python", "Computer Vision", "Roboflow", "Ultralytics", "NLP · TF-IDF", "Edge AI · Hailo"] },
+    { group: "Web & Backend", items: ["Laravel", "PHP", "Flask", "JavaScript", "HTML5", "CSS", "Google Apps Script"] },
     { group: "Hardware & Other", items: ["Raspberry Pi 5", "Telegram Bot API", "C++", "SFML", "Google Colab", "Academic Documents (OOXML)"] },
   ],
 };
